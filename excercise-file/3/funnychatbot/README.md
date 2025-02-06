@@ -41,7 +41,7 @@ pip3 install -r requirements.txt
 
 OPENAI_API_KEY=sk-brHeh...A39v5iXsM2
 
-
+`export OPENAI_API_KEY='Your Open Ai Api KEY'`
 
 
 ## Run the script:
